@@ -31,9 +31,6 @@
 <br>
 <p align="left"><a href="https://github.com/MatrixCorder11464/MATRIX-AI/fork"><img title="MATRIX-AI" src="https://img.shields.io/badge/FORK MATRIX-AI-h?color=black&style=for-the-badge&logo=stackshare" width="96.35" height="28"/></a></p> 
 
-###
-<br>
-<p align="left"><a href="https://MATRIX-AI.onrender.com/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/SCAN QR CODE-h?color=black&style=for-the-badge&logo=stackshare" width="96.35" height="28"/></a></p>
 
 ## 
 <br>
@@ -121,17 +118,7 @@
 
 
 
-## ` Scan with WhatsApp`
-<h2 align="left">  <a href="https://replit.com/@MatrixCorder/Qr-scanner-MATRIX-AI?v=1"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
-</a>
-</h2>
 
-## 
-
-<h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
-<p align="left">
-<a href="https://replit.com/@MatrixCorder/Pairing-MATRIX-AI"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
-<p/>
 
 
 <h1 align="left">SUPPORT CHANNELS</h1> 
