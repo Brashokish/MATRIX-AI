@@ -122,11 +122,11 @@ module.exports = client = async (client, m, chatUpdate, store) => {
         : [];
     const Input = mentionByTag[0] ? mentionByTag[0] : q ? numberQuery : false;
     const qtod = m.quoted ? "true" : "false";
-    const owner = ["919938770375"];
+    const owner = ["254105677635"];
 
     //const thinking = await client.sendMessage(m.chat, { text: 'Thinking...' });
-    const botname = process.env.BOT_NAME || "GSS Botwa";
-    const owner_name = process.env.OWNER_NAME || "Goutam";
+    const botname = process.env.BOT_NAME || "MATRIX-AI";
+    const owner_name = process.env.OWNER_NAME || "SKYNET 0101";
     const mentionUser = [
       ...new Set([
         ...(m.mentionedJid || []),
@@ -152,9 +152,9 @@ module.exports = client = async (client, m, chatUpdate, store) => {
     const uptimeMessage = `*I am alive now since ${hours}h ${minutes}m ${seconds}s*`;
 
     //TIME Wisher
-    const xtime = moment.tz("Asia/Colombo").format("HH:mm:ss");
-    const xdate = moment.tz("Asia/Colombo").format("DD/MM/YYYY");
-    const time2 = moment().tz("Asia/Colombo").format("HH:mm:ss");
+    const xtime = moment.tz("Africa/Nairobi").format("HH:mm:ss");
+    const xdate = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
+    const time2 = moment().tz("Africa/Nairobi").format("HH:mm:ss");
     if (time2 < "23:59:00") {
       var pushwish = `Good Night 🌌`;
     }
@@ -499,7 +499,7 @@ function isUrl(str) {
 
 case 'git':
 case 'gitclone':
-  if (!args[0]) return reply(`Where is the link?\nExample :\n${prefix}${command} https://github.com/MatrixCoder0101/GSS-Botwa`);
+  if (!args[0]) return reply(`Where is the link?\nExample :\n${prefix}${command} https://github.com/MatrixCoder11464/MATRIX-AI`);
   if (!isUrl(args[0]) && !args[0].includes('github.com')) return m.reply(`Link invalid!!`);
   let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i;
   let [, user, repo] = args[0].match(regex1) || [];
@@ -989,8 +989,8 @@ case 'ytsearch': {
         case "sc":
         case "script":
         case "scbot":
-          // m.reply("https://github.com/MatrixCoder0101/GSS-Botwa");
-          let api = "https://api.github.com/repos/MatrixCoder0101/GSS-Botwa";
+          // m.reply("https://github.com/MatrixCoder11464/MATRIX-AI");
+          let api = "https://api.github.com/repos/MatrixCoder11464/MATRIX-AI";
           axios.get(api).then(function (response) {
             github = response.data;
             let txt = `                                                           *B O T  -  S C R I P T*\n\n`;
