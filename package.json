@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/MatrixCoder0101/WHATSAPP-GPT",
-  "author": "Goutam Kumar",
+  "base": "https://github.com/MatrixCoder11464/WHATSAPP-GPT",
+  "author": "SKYNET 0101",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
@@ -63,10 +63,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatrixCoder0101/WHATSAPP-GPT.git"
+    "url": "git+https://github.com/MatrixCorder11464/MATRIX-AI.git"
   },
   "bugs": {
-    "url": "https://github.com/MatrixCoder0101/WHATSAPP-GPT/issues"
+    "url": "https://github.com/MatrixCorder11464/MATRIX-AI/issues"
   },
-  "homepage": "https://github.com/MatrixCoder0101/WHATSAPP-GPT#readme"
+ "homepage": "https://github.com/MatrixCorder11464/MATRIX-AI#readme"
 }
