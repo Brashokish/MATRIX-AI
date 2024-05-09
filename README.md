@@ -132,9 +132,7 @@
 <p align="left"><a href="https://t.me/i_am_matrix_ai"><img tittle="MATRIX-AI OFFICIAL CHANNEL" src="https://i.ibb.co/Kj3Knpk/TG-SUPPORT-REPO-LOW-NIMA.png" alt="TG-SUPPORT-REPO-LOW-NIMA" border="2" width="96.35" height="28" ></a></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-###
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=CONNECT+WITH;MATRIXCODER11464𓅃+VIA;+254105677636" alt="Typing SVG" /></a>
+
 
 
 # ```Support Me```
