@@ -55,8 +55,7 @@
 <br>
 <p align="left"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-purple?style=for-the-badge&logo=replit" width="96.35" height="28"/></a></p>
 
-##
-<P align="left"><a href="https://venocyber-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207" width="96.35" height="28"/></a></P>
+
 
 <h1 align="left">ÐΣPLOY ON ЯAILWAYS</h1> 
 
