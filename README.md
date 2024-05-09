@@ -5,7 +5,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">   
-    <img src="https://pin.it/2Gqu87XvD"width="500" height="500"/>
+    <img src="https://telegra.ph/file/054986c17ed343e74ca6b.jpg"width="500" height="500"/>
 </p>
 
 <p align="center">
