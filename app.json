@@ -1,12 +1,13 @@
 {
   "name": "whatsapp-gpt (GSS)",
   "description": " Whatsapp bot.",
+  "logo":"https://telegra.ph/file/054986c17ed343e74ca6b.jpg",
   "keywords": [
     "whatsapp bot",
     "baileys",
     "whatsapp-api"
   ],
-  "repository": "https://github.com/MatrixCoder0101/GSS-Botwa",
+  "repository": "https://github.com/MatrixCoder11464/MATRIX-AI",
   "stack": "container",
   "env": {
       "BOT_NAME": {
