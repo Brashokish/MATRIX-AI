@@ -25,14 +25,14 @@
 
 </br>
 </br>
- 
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="left">SETUP</h1>  
 
 ###
 <br>
 <p align="left"><a href="https://github.com/MatrixCorder11464/MATRIX-AI/fork"><img title="MATRIX-AI" src="https://img.shields.io/badge/FORK MATRIX-AI-h?color=black&style=for-the-badge&logo=stackshare" width="96.35" height="28"/></a></p> 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 
 <br>
 
@@ -119,7 +119,7 @@
 
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <h1 align="left">SUPPORT CHANNELS</h1> 
@@ -133,7 +133,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 # ```Support Me```
 <p align="left">
@@ -144,7 +144,8 @@
 <p align="left">
 <a href='https://youtube.com/@matrix_corder11464?si=vBW_UukoiQQJInQA' target="_blank"><img alt='Youtube' src='https://img.shields.io/badge/SUBSCRIBE-h?color=black&style=for-the-badge&logo=youtube' width="96.35" height="28"/></a></p>
 </p>
-
+    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## ` BUILDPACKS`
 
@@ -155,9 +156,9 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
