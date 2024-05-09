@@ -4,7 +4,7 @@ const express = require("express");
 const moment = require("moment-timezone");
 const app = express();
 const port = 3000;
-const owner = [919938770375];
+const owner = [254105677636];
 
 const {
   default: goutamConnect,
@@ -217,7 +217,7 @@ async function startHisoka() {
   );
   const { version, isLatest } = await fetchLatestBaileysVersion();
   (async () => {
-    await typeWriter(color("CODED BY GOUTAM KUMAR", "hotpink"), 100);
+    await typeWriter(color("CODED BY SKYNET 0101", "hotpink"), 100);
     await typeWriter(
       color(`using WA v${version.join(".")}, isLatest: ${isLatest}`, "lime"),
       100
@@ -384,16 +384,16 @@ async function startHisoka() {
         QR_GENERATE = qr;
       } else if (connection === "open") {
         console.log(color("Bot success conneted to server", "green"));
-        console.log(color("Follow: on GitHub: @MatrixCoder0101", "yellow"));
+        console.log(color("Follow: on GitHub: @MatrixCoder11464", "yellow"));
         console.log(color("Type /menu to see menu"));
 
         async function setBio() {
           let status =
             "📆 " +
-            moment.tz("Asia/Colombo").format("DD/MM/YYYY") +
+            moment.tz("Africa/Nairobi").format("DD/MM/YYYY") +
             " ⌚ " +
-            moment.tz("Asia/Colombo").format("HH:mm:ss") +
-            " Goutam " +
+            moment.tz("Africa/Nairobi").format("HH:mm:ss") +
+            " SKYNET " +
             " Runtime: " +
             Math.floor(process.uptime() / 3600) +
             "h " +
